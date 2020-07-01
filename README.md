@@ -1,3 +1,2 @@
-# PrevendoPrecoResidencias
-Projeto final realizado no curso Fundamentos de AI e Machine Learning na Udacity.
-Objetivo era prever o preço das residências com base em suas características.
+# House-Price-Regression
+Final project developed on Udacity's course AI and Machine Learning Fundamentals. Main Goal was to predict the house prices based on it's features.
